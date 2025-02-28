@@ -1,28 +1,36 @@
 {
   "expo": {
-    "name": "nexa",
-    "slug": "nexa",
+    "expo": {
+      "web": {
+        "bundler": "metro"
+      }
+    },
+    "name": "Nexa",
+    "slug": "Nexa",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "icon": "./assets/logo-transparent.png",
+    "userInterfaceStyle": "dark",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/logo-transparent.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#171717"
     },
     "ios": {
       "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "foregroundImage": "./assets/logo-transparent.png",
+        "backgroundColor": "#171717"
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
-    }
+      "favicon": "./assets/logo-transparent.png"
+    },
+    "plugins": [
+      "expo-secure-store"
+    ]
   }
 }

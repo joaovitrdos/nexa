@@ -1,4 +1,6 @@
 import { registerRootComponent } from 'expo';
+// Import the global.css file in the index.js file:
+// If using Expo Router, import your CSS file in the app/_layout.tsx file
 
 import App from './App';
 
