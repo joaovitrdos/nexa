@@ -1,7 +1,3 @@
-Aqui está a documentação atualizada para o projeto **Nexa**, com telas para **Home**, **Note**, **Task**, **Calendar** e **Config**, adotando um estilo similar ao de repositórios GitHub. A documentação cobre a descrição do projeto, como configurar, como usar e outras informações relevantes.
-
----
-
 # Nexa - Aplicativo de Produtividade
 
 **Nexa** é um aplicativo de produtividade multifuncional para ajudar os usuários a organizar suas tarefas diárias, notas e eventos. O aplicativo inclui funcionalidades como uma tela de **Home** para visão geral, gerenciamento de **Notas**, controle de **Tarefas**, um **Calendário** para eventos e compromissos, e uma tela de **Configurações** para personalização.
@@ -186,7 +182,7 @@ Contribuições são bem-vindas! Para contribuir com o projeto, siga os passos a
 
 ## Licença
 
-Este projeto está licenciado sob a licença **MIT** - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a licença **JVS**.
 
 ---
 
